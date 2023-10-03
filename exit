@@ -1,0 +1,29 @@
+[33mcommit d56e6daeed4ceced4b5a5e7f67f6ff86c8ee0547[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: cezaniltom <cezaniltom@outlook.com>
+Date:   Wed Sep 27 12:17:22 2023 -0300
+
+    Listagem de itens da pokedex
+
+[33mcommit 3411bd039710d0eeb0521f8daef5b852a32d852f[m
+Author: cezaniltom <cezaniltom@outlook.com>
+Date:   Mon Sep 25 13:05:32 2023 -0300
+
+    Atualização com processamento assíncrono
+
+[33mcommit b1418ecd162b26f72b5f6e19f4fca99385c3ce9a[m
+Author: cezaniltom <cezaniltom@outlook.com>
+Date:   Mon Sep 4 23:13:16 2023 -0300
+
+    Atualizando o README da página
+
+[33mcommit 477fdc3f8103afab3c2cb170f340a2abab026522[m
+Author: cezaniltom <cezaniltom@outlook.com>
+Date:   Mon Sep 4 22:46:52 2023 -0300
+
+    Desenvolvimento de uma pokedex, commit 01
+
+[33mcommit 61a48f164c3f107e85695d170c13d568cbd67662[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Cezaniltom Silva <91354726+Cezaniltom@users.noreply.github.com>
+Date:   Mon Sep 4 22:49:30 2023 -0300
+
+    Initial commit
